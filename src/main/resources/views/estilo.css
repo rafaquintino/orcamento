@@ -1,0 +1,85 @@
+/*página de contato*/
+.fone{
+    width: 15px;
+    height: 15px;
+    float: left;
+    margin: 3px;
+}
+#saudacao{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    color: black;
+    text-align: center;   
+}
+#contato{
+    
+    border-radius: 10px;
+    background-color: rgb(241, 240, 255);
+    width: 680px;
+    padding: 10px;
+    border: solid black 2px;
+    margin-left: 350px;
+    margin-top: 50px;
+    box-shadow: 10px 5px 5px black;
+
+}
+#conbody{
+    background-color: #efefef;
+}
+/*página principal*/
+#index{
+    background-color: #efefef;
+}
+#indexh1{
+    text-align: center;
+    border: black solid 2px;
+    border-radius: 5px;
+    width: 900px;
+    margin-left: 260px;
+    background-color: rgb(55, 116, 55);
+    color: antiquewhite;
+}
+
+#lista{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    padding: 14px;
+    border: solid black 2px;
+    width: 600px;
+    margin-left: 380px;
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px black;
+    background-color: gray;
+  
+}
+
+#sidemenu{
+    float: left;
+    font: bold;
+    margin: 10px 200px 0 200px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.item{
+    padding-right: 20px;
+    font-size: 20px;  
+}
+
+/*cadastro*/
+.cadbody{
+    background-color: #efefef;
+
+}
+.cadtexto{
+    border: solid black 2px;
+    text-align: center;
+    box-shadow: 5px 2px 2px black;
+    border-radius: 15px;
+    width: 800px;
+    margin-left: 200px;
+}
+/*orçamento*/
+
+
